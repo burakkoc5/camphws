@@ -10,6 +10,7 @@ public class Product {
     private String imageUrl;
     private int unitsInStock;
 
+    
     public String getName(){
         return name;
     }
