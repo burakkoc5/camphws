@@ -10,7 +10,7 @@ public class Main {
         //Both managers have methods on PersonManager class.
         EmployeeManager employeeManager = new EmployeeManager();
         CustomerManager customerManager = new CustomerManager();
-
+        System.out.println("içöü");
 
 
     }
