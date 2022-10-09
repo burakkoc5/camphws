@@ -7,7 +7,7 @@ public class HibernateProductDao implements ProductDao{
     public void add(Product product){
 
         //only data access codes
-        
+        //Hİbernate nrew fndljafnsalfafşa
         System.out.println("Hibernate ile veritabanına eklendi.");
     }
     

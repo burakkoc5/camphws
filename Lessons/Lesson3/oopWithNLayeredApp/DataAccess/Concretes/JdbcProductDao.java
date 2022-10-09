@@ -7,6 +7,9 @@ public class JdbcProductDao implements ProductDao{
     public void add(Product product){
 
         //only data access codes
+        // Connection connection
+        //Databaser f
+        // fbaksfl,fsa,
         
         System.out.println("JDBC ile veritabanına eklendi.");
     }
